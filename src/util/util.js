@@ -1,1 +1,0 @@
-const weatherIconMap = new Map();
